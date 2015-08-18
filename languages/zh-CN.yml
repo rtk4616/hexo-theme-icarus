@@ -9,17 +9,19 @@ nav:
   next: '下一页'
   prev: '上一页'
 widget:
+  permission: '内容许可'
   recents: '最新文章'
   archives: '归档'
   categories: '分类'
-  links: '链接'
+  links: '友链'
   tags: '标签'
   tag_cloud: '标签云'
 article:
-  comments: '评论'
+  comments: '去评论'
   share: '分享到'
+  catalogue: '文章目录'
 profile:
-  follow: '关注我'
+  follow: 'High一下'
   post: '文章'
   tag: '标签'
   posts: '文章'
