@@ -10,6 +10,11 @@
         <div class="article-meta">
           <%- partial('post/date', {class_name: 'article-date', date_format: null}) %>
           <%- partial('post/category') %>
+          <!-- 评论、访问统计部分，不蒜子 -->
+          <%- partial('post/comment') %>
+       
+
+          
         </div>
       </header>
     <% } %>
